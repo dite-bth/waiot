@@ -8,6 +8,8 @@ WoT and IoT
     + https://www.particle.io/
 + waspmote
     +  http://www.libelium.com/products/waspmote/
++ weio - http://we-io.net/hardware/
+    + python (pip, Tornado, ...), wi-fi, Linux, ssh
 +  Arduino Yún
     + https://www.arduino.cc/en/Main/ArduinoBoardYun?from=Products.ArduinoYUN
 + Udoo Neo
