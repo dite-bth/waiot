@@ -25,6 +25,11 @@ WoT and IoT
 +  wiot
     +  http://ubld.it/products/wiot-board/
 +  Lightblue Bean
+  
+
+Drönare  
++ codrone
+    + https://www.kickstarter.com/projects/728836843/codrone-learn-to-code-with-programmable-drone?ref=category
     +  https://punchthrough.com/bean/
 +  nanonode
     +  http://shop.nanode.eu/
