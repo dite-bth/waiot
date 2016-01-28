@@ -27,6 +27,9 @@ WoT and IoT
 +  Lightblue Bean
 +  nanonode
     +  http://shop.nanode.eu/
++  RiotBoard - http://riotboard.org/
+    +  __The RIoTboard is an evaluation platform featuring the powerful i.MX 6Solo, a multimedia application processor with ARM Cortex-A9 core at 1 GHz from NXP Semiconductors. The platform helps evaluate the rich set of peripherals and includes a 10/100/Gb Ethernet port, HDMI v1.4, LVDS, analog headphone/microphone, uSD and SD card interface, USB, serial port, JTAG, camera interface, GPIO boot configuration interface, and expansion port.__  
+    
 
 
   
@@ -35,3 +38,8 @@ Drönare
 + codrone
     + https://www.kickstarter.com/projects/728836843/codrone-learn-to-code-with-programmable-drone?ref=category
     +  https://punchthrough.com/bean/
+
+
+Övrigt
++ Freeboard
+    + https://freeboard.io/
