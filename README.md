@@ -1,13 +1,17 @@
 # waiot
 ##WoT and IoT
 
+**Innehåll**  
 <a href="#places">Places</a>  
 <a href="#things">Controllers/Hardware</a>  
 <a href="#drones">Drönare</a>  
 <a href="#other">Övrigt</a>  
 <a href="#books">Böcker</a>  
 
-##<a name="places>Places</a>
+<hr>
+
+
+##<a name="places">Places</a>
 + https://www.hackster.io/
     + _Hackster is a community dedicated to learning hardware._
 
