@@ -1,7 +1,7 @@
 # waiot
 ##WoT and IoT
 
-**<a name="top">Innehåll</a>**  
+**<a name="top">Index</a>**  
 <a href="#places">Places</a>  
 <a href="#things">Controllers/Hardware</a>  
 <a href="#drones">Drönare</a>  
@@ -16,7 +16,7 @@
     + _Hackster is a community dedicated to learning hardware._
 
 
-<a href="#top"> <- till top</a>
+<a href="#top">index</a>
 
 
 ##<a name="things">Controllers/Hardware</a>
@@ -61,7 +61,7 @@ Integrated Wi-Fi certified in 68 countries, Bluetooth® 4.0 support, 1GB DDR and
     
 
 
-<a href="#top"> <- till top</a>
+<a href="#top">index</a>
 
   
 
@@ -70,7 +70,7 @@ Integrated Wi-Fi certified in 68 countries, Bluetooth® 4.0 support, 1GB DDR and
     + https://www.kickstarter.com/projects/728836843/codrone-learn-to-code-with-programmable-drone?ref=category
    
 
-<a href="#top"> <- till top</a>
+<a href="#top">index</a>
 
 
 ##<a name="other">Övrigt</a>
@@ -78,7 +78,7 @@ Integrated Wi-Fi certified in 68 countries, Bluetooth® 4.0 support, 1GB DDR and
     + https://freeboard.io/
 
 
-<a href="#top"> <- till top</a>
+<a href="#top">index</a>
 
 
 ##<a name="books">Böcker</a>
@@ -138,4 +138,4 @@ Who this book is for
 Thought leaders, executives, architectural, standards and development leaders in the evolving IoT industry. Corporations and organizations whose commercial products could be adapted simply to be functioning devices on the IOT while saving billions of dollars in unnecessary costs or proprietary designs. Those who wish to capitalize on technology change and those interested in the Internet, its capabilities and the need to improve it.
 
 
-<a href="#top"> <- till top</a>
+<a href="#top">index</a>
