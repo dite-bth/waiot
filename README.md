@@ -1,7 +1,7 @@
 # waiot
 ##WoT and IoT
 
-**Innehåll**  
+**<a name="top">Innehåll</a>**  
 <a href="#places">Places</a>  
 <a href="#things">Controllers/Hardware</a>  
 <a href="#drones">Drönare</a>  
@@ -125,3 +125,6 @@ Describes the anatomy of the IoT.
 Describes how to build a suitable network to maximize the amazing potential of the IoT.
 Who this book is for
 Thought leaders, executives, architectural, standards and development leaders in the evolving IoT industry. Corporations and organizations whose commercial products could be adapted simply to be functioning devices on the IOT while saving billions of dollars in unnecessary costs or proprietary designs. Those who wish to capitalize on technology change and those interested in the Internet, its capabilities and the need to improve it.
+
+
+<a href="#top">till top</a>
