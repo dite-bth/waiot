@@ -3,9 +3,9 @@
 
 <a href="#places">Places</a>  
 <a href="#things">Controllers/Hardware</a>  
-<a href="#drones">Drönare</a>
-<a href="#other">Övrigt</a>
-<a href=""books">Böcker</a>  
+<a href="#drones">Drönare</a>  
+<a href="#other">Övrigt</a>  
+<a href="#books"">Böcker</a>  
 
 ##<a name="places>Places</a>
 + https://www.hackster.io/
@@ -61,7 +61,7 @@ Integrated Wi-Fi certified in 68 countries, Bluetooth® 4.0 support, 1GB DDR and
    
 
 
-##<a name="other>Övrigt</a>
+##<a name="other">Övrigt</a>
 + **Freeboard**
     + https://freeboard.io/
 
