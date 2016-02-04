@@ -6,9 +6,9 @@ Places
     + _Hackster is a community dedicated to learning hardware._
 
 Controllers/Hardware
-+ wunderbar - https://www.relayr.io/wunderbar/
++ *wunderbar* - https://www.relayr.io/wunderbar/
     + Android, iPhone, .NET, Python, nodejs, html
-+ Pinoccio  
++ *Pinoccio*  
     + https://www.crowdsupply.com/pinoccio/mesh-sensor-network https://www.crowdsupply.com)
 + Particle (Photon)
     + https://www.particle.io/
