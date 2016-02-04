@@ -1,11 +1,17 @@
 # waiot
-WoT and IoT
+##WoT and IoT
 
-Places
+<a href="#places">Places</a>  
+<a href="#things">Controllers/Hardware</a>  
+<a href="#drones">Drönare</a>
+<a href="#other">Övrigt</a>
+<a href=""books">Böcker</a>  
+
+##<a name="places>Places</a>
 + https://www.hackster.io/
     + _Hackster is a community dedicated to learning hardware._
 
-Controllers/Hardware
+##<a name="things">Controllers/Hardware</a>
 + **wunderbar** - https://www.relayr.io/wunderbar/
     + Android, iPhone, .NET, Python, nodejs, html
 + **Pinoccio**  
@@ -49,18 +55,18 @@ Integrated Wi-Fi certified in 68 countries, Bluetooth® 4.0 support, 1GB DDR and
 
   
 
-##Drönare  
+##<a name="drones">Drönare</a>  
 + **codrone**
     + https://www.kickstarter.com/projects/728836843/codrone-learn-to-code-with-programmable-drone?ref=category
    
 
 
-##Övrigt
+##<a name="other>Övrigt</a>
 + **Freeboard**
     + https://freeboard.io/
 
 
-##Böcker
+##<a name="#books">Böcker</a>
 + **Iot Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things**
 av David Hanes, Gonzalo Salgueiro, Patrick Grossetete - http://www.adlibris.com/se/bok/iot-fundamentals-networking-technologies-protocols-and-use-cases-for-the-internet-of-things-9781587144561
     + _The Internet of Things (IoT) is rapidly coming of age. Billions of devices are already Internet-connected. Standards and protocols are stabilizing. Increasingly, network professionals are being called upon to integrate real IoT devices and applications, and solve real problems with IoT technologies. IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things gives them the first comprehensive practical reference for making IoT work. Four leading Cisco IoT experts have brought together information and insights that were previously available only in white papers, standards documents, and other hard-to-find sources - or nowhere at all. They've organized IoT in an easy-to-follow manner, distilling its basic components, and showing how IoT concepts, protocols, and technologies translate into real-world applications. Part I offers in-depth coverage of the fundamental elements of the IoT technology space, including relevant communication and signaling protocols, devices, overall IoT architecture, and foundational design and deployment concepts. Building on these concepts, the authors offer in-depth drilldowns on key IoT components, including sensors, connectivity, data, and applications. In Part II, IoT Fundamentals applies these fundamental elements to real world use cases in many key vertical markets, including home automation, energy production, power grid intelligence, factory efficiency, city governance, sports/entertainment, and several more. Readers won't just gain deep insight both into the remarkable power of IoT applications: they will discover exactly what it takes to deliver these applications in real network and business environments."_
