@@ -5,7 +5,7 @@
 <a href="#things">Controllers/Hardware</a>  
 <a href="#drones">Drönare</a>  
 <a href="#other">Övrigt</a>  
-<a href="#books"">Böcker</a>  
+<a href="#books">Böcker</a>  
 
 ##<a name="places>Places</a>
 + https://www.hackster.io/
