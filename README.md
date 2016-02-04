@@ -1,6 +1,6 @@
 # waiot
 ##Web of Things and Internet of Things (WoT, IoT)  
-__**W**eb-, **A**nd **I**nternet **O**f **T**hings__
+**W**eb-, **A**nd **I**nternet **O**f **T**hings
 
 **<a name="top">Index</a>**  
 <a href="#places">Places</a>  
